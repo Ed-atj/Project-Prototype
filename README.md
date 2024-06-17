@@ -1,5 +1,5 @@
 # Project-Prototype
-Projeto de lógica de programção, feito pelos alunos do Start 2024 do grupo 1.
+Primeiro protótipo do projeto, baseado em lógica de programção com integração em banco de dados, feito pelos alunos do Start 2024.2, grupo 1.
 
 Estrutura do Projeto
 O projeto foi desenvolvido em Java utilizando o Maven como ferramenta de 
