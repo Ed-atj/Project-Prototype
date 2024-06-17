@@ -1,4 +1,6 @@
 #Project Prototype - English
+
+
 A project prototype based on program logic with database integration, made by stundents of Start course (class 2024.2), group 1.
 
 # Project Documentation: Login, Registration, and Password Recovery in Java
