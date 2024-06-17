@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"maven.view": "hierarchical",
+		"java.dependency.packagePresentation": "hierarchical"
+	}
+}
