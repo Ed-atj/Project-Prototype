@@ -65,3 +65,9 @@ This project is developed in Java using Maven for dependency management. The pro
 This documentation provides an overview of the Java project structure for login, registration, and password recovery, detailing the main packages and files along with their respective functions.
 
 
+
+   
+Conclusão
+Esta documentação apresenta uma visão geral da estrutura do projeto de login, 
+cadastro e recuperação de senha em Java, detalhando os pacotes e arquivos 
+principais, bem como suas respectivas funções
